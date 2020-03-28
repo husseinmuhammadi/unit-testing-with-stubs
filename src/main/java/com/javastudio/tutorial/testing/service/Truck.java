@@ -7,7 +7,7 @@ public class Truck implements Vehicle {
 
     private final Engine engine;
 
-    public Truck(Engine engine) {
+    Truck(Engine engine) {
         this.engine = engine;
     }
 
